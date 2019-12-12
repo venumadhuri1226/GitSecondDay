@@ -3,4 +3,12 @@
   <groupId>org.text</groupId>
   <artifactId>GitSecondDay</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-chrome-driver</artifactId>
+    <version>3.141.5</version>
+</dependency>
+  </dependencies>
 </project>
